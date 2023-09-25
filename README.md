@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrihari Haridas</h1>
 <h3 align="center">"A Passionate DevOps Engineer from India"</h3>
-<img align="right"alt="DevOps" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/professional-male-devops-8872610-7233289.mp4?h=700](https://dribbble.com/shots/4739771-GitLab-Auto-DevOps/attachments/10567053?mode=media](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right"alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/professional-male-devops-8872610-7233289.mp4?h=700](https://dribbble.com/shots/4739771-GitLab-Auto-DevOps/attachments/10567053?mode=media](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihariharidass&label=Profile%20views&color=0e75b6&style=flat" alt="shrihariharidass" /> </p>
 
